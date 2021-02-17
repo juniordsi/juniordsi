@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 
 ![Python](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=yellow)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![C#](https://img.shields.io/badge/-C-007396?style=flat-square&logo=c)
+![C](https://img.shields.io/badge/-C-007396?style=flat-square&logo=c)
+![C#](https://img.shields.io/badge/-C_Sharp-blue?style=flat-square&logo=C-Sharp)
 ![Dart](https://img.shields.io/badge/-Dart-007396?style=flat-square&logo=dart)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
@@ -44,6 +45,7 @@ Here are some ideas to get you started:
 ![Jax-rs](https://img.shields.io/badge/-JAX-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-339933?style=flat-square&logo=python&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -61,6 +63,7 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase?style=flat-square&logo=firebase)
 
+![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=flat-square&logo=visual-studio-code)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-purple?style=flat-square&logo=eclipse)
 ![JUnit](https://img.shields.io/badge/-JUnit-green?style=flat-square&logo=java)
 
