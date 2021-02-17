@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 ### My name is Junior, I'm a student of Information Systems at the Federal University of Sergipe. 📚
 
-- Web developer
-- Mobile enthusiast
+- System Developer
+- Mobile Developer enthusiast
 - Love Software Engineering
 
 ## Technologies :computer:
