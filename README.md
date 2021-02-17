@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 ## Areas :computer:
 
-![Software Enginnering](https://img.shields.io/badge/-Datascience-007396?style=flat-square&logo=python&logoColor=yellow)
-![Datascience](https://img.shields.io/badge/-Datascience-007396?style=flat-square&logo=python&logoColor=yellow)
+![Software Enginnering](https://img.shields.io/badge/-Software_Enginnering-007396?style=flat-square&logo&logoColor=purple)
+![Datascience](https://img.shields.io/badge/-Datascience-007396?style=flat-square&logo=&logoColor=yellow)
 
 ## Technologies :computer:
 
