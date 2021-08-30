@@ -31,13 +31,14 @@ Here are some ideas to get you started:
 
 ## Technologies :computer:
 
+![C#](https://img.shields.io/badge/-C_Sharp-blue?style=flat-square&logo=C-Sharp)
 ![Python](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=yellow)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![C](https://img.shields.io/badge/-C-007396?style=flat-square&logo=c)
-![C#](https://img.shields.io/badge/-C_Sharp-blue?style=flat-square&logo=C-Sharp)
 ![Dart](https://img.shields.io/badge/-Dart-007396?style=flat-square&logo=dart)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
+![.NET Core](https://img.shields.io/badge/-.Net%20Core-333?style=flat-square&logo=dotnet&logoColor=blue)
 ![Spring Framework](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Jax-rs](https://img.shields.io/badge/-JAX-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
@@ -49,6 +50,7 @@ Here are some ideas to get you started:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![Vue.js](https://img.shields.io/badge/-VueJs-FFF?style=flat-square&logo=vue.js)
 ![Webpack](https://img.shields.io/badge/-Webpack-2B3A42?style=flat-square&logo=webpack&logoColor=75AfCC)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
