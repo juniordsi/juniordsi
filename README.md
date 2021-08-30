@@ -64,9 +64,11 @@ Here are some ideas to get you started:
 ![Eclipse](https://img.shields.io/badge/-Eclipse-purple?style=flat-square&logo=eclipse)
 ![JUnit](https://img.shields.io/badge/-JUnit-green?style=flat-square&logo=java)
 
+![Microsoft Azure](https://img.shields.io/badge/MICROSOFT%20AZURE-232F3E?style=flat-square&logo=microsoft-azure)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Apache Maven](https://img.shields.io/badge/-Apache%20Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=black)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+
 
 
 
