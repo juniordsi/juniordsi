@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ![C#](https://img.shields.io/badge/-C_Sharp-blue?style=flat-square&logo=C-Sharp)
 ![Python](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=yellow)
-![C](https://img.shields.io/badge/-C-007396?style=flat-square&logo=c)
+![C](https://img.shields.io/badge/-C-007396?style=flat-square&logo=c&color=grey)
 ![Dart](https://img.shields.io/badge/-Dart-007396?style=flat-square&logo=dart)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
