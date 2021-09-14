@@ -26,32 +26,25 @@ Here are some ideas to get you started:
 
 ## Areas :computer:
 
+![Distributed Systems](https://img.shields.io/badge/Distributed-Systems-007396?style=flat-square&logo&logoColor=purple)
 ![Software Enginnering](https://img.shields.io/badge/-Software_Enginnering-007396?style=flat-square&logo&logoColor=purple)
-![Datascience](https://img.shields.io/badge/-Datascience-007396?style=flat-square&logo=&logoColor=yellow)
 
 ## Technologies :computer:
 
 ![C#](https://img.shields.io/badge/-C_Sharp-blue?style=flat-square&logo=C-Sharp)
 ![Python](https://img.shields.io/badge/-Python-007396?style=flat-square&logo=python&logoColor=yellow)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![C](https://img.shields.io/badge/-C-007396?style=flat-square&logo=c)
 ![Dart](https://img.shields.io/badge/-Dart-007396?style=flat-square&logo=dart)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
 ![.NET Core](https://img.shields.io/badge/-.Net%20Core-333?style=flat-square&logo=dotnet&logoColor=blue)
-![Spring Framework](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Jax-rs](https://img.shields.io/badge/-JAX-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-339933?style=flat-square&logo=python&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat-square&logo=flutter)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![Vue.js](https://img.shields.io/badge/-VueJs-FFF?style=flat-square&logo=vue.js)
-![Webpack](https://img.shields.io/badge/-Webpack-2B3A42?style=flat-square&logo=webpack&logoColor=75AfCC)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
@@ -63,15 +56,10 @@ Here are some ideas to get you started:
 ![Firebase](https://img.shields.io/badge/-Firebase?style=flat-square&logo=firebase)
 
 ![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=flat-square&logo=visual-studio-code)
-![Eclipse](https://img.shields.io/badge/-Eclipse-purple?style=flat-square&logo=eclipse)
-![JUnit](https://img.shields.io/badge/-JUnit-green?style=flat-square&logo=java)
+![Visual Studio](https://img.shields.io/badge/-VisualStudio-visual?style=flat-square&logo=visual-studio&logoColor=purple&color=white)
 
 ![Microsoft Azure](https://img.shields.io/badge/MICROSOFT%20AZURE-232F3E?style=flat-square&logo=microsoft-azure)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Apache Maven](https://img.shields.io/badge/-Apache%20Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=black)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniordsi&langs_count=10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juniordsi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
