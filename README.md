@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 ![Firebase](https://img.shields.io/badge/-Firebase?style=flat-square&logo=firebase)
 
 ![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=flat-square&logo=visual-studio-code)
-![Visual Studio](https://img.shields.io/badge/-VisualStudio-visual?style=flat-square&logo=visual-studio&logoColor=purple&color=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-visual?style=flat-square&logo=visual-studio&logoColor=white&color=purple)
 
 ![Microsoft Azure](https://img.shields.io/badge/MICROSOFT%20AZURE-232F3E?style=flat-square&logo=microsoft-azure)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
