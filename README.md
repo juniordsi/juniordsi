@@ -62,10 +62,6 @@ Here are some ideas to get you started:
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juniordsi&langs_count=10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)   [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=juniordsi&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 <!-- 
 https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams
 
