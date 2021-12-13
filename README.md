@@ -6,4 +6,3 @@
 ### My name is Junior :nerd_face: , I'm a student of Information Systems at the Federal University of Sergipe. 📚
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-juniorsantos)](https://www.linkedin.com/in/dev-juniorsantos)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat_square&logo=Gmail&logoColor=white)](mailto:juniordev.si@gmail.com)
