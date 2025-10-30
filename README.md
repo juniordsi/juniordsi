@@ -5,4 +5,4 @@
 
 ### My name is Junior :nerd_face: , I'm a software developer. 📚
 
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dev-juniorsantos)](https://www.linkedin.com/in/dev-juniorsantos)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/junior-santos-571b77159)]([https://www.linkedin.com/in/dev-juniorsantos](https://www.linkedin.com/in/junior-santos-571b77159))
